@@ -1,0 +1,50 @@
+header {
+    background-color: rgba(255, 68, 0, 0.322);
+}
+body {
+    background-color: sandybrown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: darkslategray;
+}
+img {height: auto;
+    width: 250px;
+}
+.my-table {
+    background-position: (50%);
+    background-size: 70%;
+    background-color: crimson;
+}
+a {
+    text-decoration: none;
+}
+.navigations {
+    color: cornsilk;
+    padding-right: 20px;
+    font-size: 18px;
+}
+#main-block{
+    padding: 10px;
+    box-sizing: content-box;
+}
+#sidebar{
+    padding: 10px;
+    box-sizing: border-box;
+    background-color:chocolate;
+}
+.p-box{
+    width: 800px;
+    height: 500px;
+    margin-top: 30px;
+    position: relative;
+    border: cornflowerblue;
+    border-radius: 2em;
+}
+.fix-me {
+    position: fixed;
+    top: 400px;
+   right: 20px;
+}
